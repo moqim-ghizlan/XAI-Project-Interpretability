@@ -1,12 +1,6 @@
----
-noteId: "506609e0e72711ef9553f9010d45162b"
-tags: []
-
----
-
 # XAI Projects Interpretability
 
-Ce projet explore diverses techniques de Machine Learning et d'intelligence artificielle appliquées à des domaines variés tels que l'interprétation des modèles BERT, les contre-factuels pour données tabulaires, les réseaux de neurones graphiques, et plus encore. Chaque sous-projet est conçu pour fournir des insights précieux dans des domaines spécifiques de l'analyse de données et des modèles d'IA.
+Projet sur l'interprétation des modèles de Machine Learning, explorant des méthodes telles que SHAP, les contre-factuels, Grad-CAM, LRP et l'explicabilité des GNN. Chaque sous-projet fournit des insights précieux dans des domaines spécifiques de l'analyse de données et des modèles d'IA. 
 
 ---
 
