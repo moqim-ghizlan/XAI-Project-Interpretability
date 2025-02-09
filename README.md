@@ -59,6 +59,7 @@ Dans chaque notebook, exécutez les cellules pour installer les dépendances né
 ## Auteurs
 
 - **GHIZLAN Moqim**
+- **JUILLARD Thibaut**
 
 ---
 
