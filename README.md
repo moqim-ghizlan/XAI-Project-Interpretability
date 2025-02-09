@@ -1,6 +1,6 @@
 # XAI Projects Interpretability
 
-Projet sur l'interprétation des modèles de Machine Learning, explorant des méthodes telles que SHAP, les contre-factuels, Grad-CAM, LRP et l'explicabilité des GNN. Chaque sous-projet fournit des insights précieux dans des domaines spécifiques de l'analyse de données et des modèles d'IA. 
+Projet sur l'interprétation des modèles de Machine Learning, explorant des méthodes telles que SHAP, les contre-factuels, Grad-CAM, LRP, LLM (BERT) et l'explicabilité des GNN. Chaque sous-projet fournit des insights précieux dans des domaines spécifiques de l'analyse de données et des modèles d'IA. 
 
 ---
 
